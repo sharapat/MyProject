@@ -1,1 +1,3 @@
-Meniń birinshi proektim. TexnoPOS IT Mektebi. Bugin git haqqinda uyrenip atirmiz.
+git add .
+git commit -m "qalegenshe tekst jazamiz"
+git push
