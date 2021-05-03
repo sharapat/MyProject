@@ -1,3 +1,8 @@
+proektimizdi push qiliw ushin komandalar: 
+
 git add .
 git commit -m "qalegenshe tekst jazamiz"
 git push
+
+basqa adamnin proektin aliw ushin:
+git clone url-adress
